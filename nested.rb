@@ -145,3 +145,5 @@ def adding_to_dennis
 
     programmer_hash
 end
+
+ puts adding_to_dennis
